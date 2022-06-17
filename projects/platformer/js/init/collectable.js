@@ -38,8 +38,11 @@
         
         createCollectable(type.star, 200, 170, 6, 0.7);
         createCollectable(type.goldcoin, 300, 140, 9, 2 );
-        createCollectable(type.keys, 400, 350, 80, 12, 2.7);
-        
+        createCollectable(type.keys, 401, 460, 80, 12, 3);
+
+        type.star         //worth 10 points
+        type.goldcoin     //worth 20 points
+        type.keys         //worth 30 points
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////

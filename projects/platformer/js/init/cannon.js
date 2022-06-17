@@ -26,9 +26,9 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
-        createCannon("top", 450);
-        createCanno("bottom", 200);
-        createCannon("right", 300);
+        createCannon("top", 450, 3);
+        createCannon("bottom", 200, 4);
+        createCannon("right", 300, 5);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
